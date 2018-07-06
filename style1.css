@@ -1,0 +1,38 @@
+html {
+	background-image: url(img.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	color: #bc8a49;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 220px;
+	-webkit-text-stroke: 1px rgb(0, 0, 0, 0.7);
+	margin: 0;
+}
+
+h2 {
+	text-align: center;
+	color: #bc8a49;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 100px;
+	-webkit-text-stroke: 1px rgb(0, 0, 0, 0.7);
+	margin: 0;
+}
+
+
+.scroll {
+	padding: 30px;
+	padding-top: 60px;
+	background-color:rgb(188, 138, 73, 0.8);
+	border: 4px #876233 solid;
+}
+
+p {
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 20px;
+}
