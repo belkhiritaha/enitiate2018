@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.title {
+	padding: 300px;
+	background-image: url(bck1.jpg);
+	background-size: cover;
+	filter: grayscale(70%);
+	background-position: center;
+	background-attachment: fixed; 
+	margin-bottom: 0px;
+}
+
+h1, h2 {
+	color: white;
+	text-align: center;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+.gal {
+	text-align: center;
+	margin-top: 60px;
+}
+	
+
+h3 {
+	margin-bottom: 20px;
+	line-height: 0px;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 3px;
+}
+
+
+img {
+	height: 400px;
+	width: 300px;
+	margin: 50px;
+	position: relative;
+	/*transition: all 1s;*/	
+    filter: grayscale(85%);
+}
+
+/*img:hover {
+	transform: translateY(-30px);
+    filter: grayscale(0%);
+    box-shadow: 0px 20px rgb(45, 47, 51, 0.2);
+    opacity: 0.8;
+} */
+
+
+.sep {
+	border-top: 2px solid #3881f7;
+	text-align: center;
+	margin-right: 47%;
+	margin-left: 47%;
+	margin-bottom: 40px;
+	margin-top: 40px ;
+}
+
+.opac{
+	opacity: 0;
+}
+
+.opac2{
+	opacity: 1;
+}
+
+#test {
+	display: inline;
+	line-height: 0px;
+	margin: 0;
+}
+
